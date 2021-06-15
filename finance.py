@@ -1,6 +1,5 @@
 import yfinance as yf
 import streamlit as st
-import pandas as pd
 from datetime import datetime
 
 today=datetime.today().strftime('%Y-%m-%d')
