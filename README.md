@@ -15,13 +15,13 @@ $ git clone https://github.com/viraj-kulkarni952/Simple-Stock-Price-App.git
 ```
 2. Create a virtual environment.
 ```bash
-$ python3 -m venv <path of the stock price app directory>
+$ python -m venv <path of the stock price app directory>
 $ cd <path of your stock price app directory>
 $ source bin/activate
 ```
 3. Install the requirements.
 ```bash
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 4. Run the application.
 ```python
